@@ -1,7 +1,7 @@
 package HW.SecondHW;
 
 
-//Дан следующий код, исправьте его там, где требуется
+//Д ан следующий код, исправьте его там, где требуется
 public class second {
     public static void main(String[] args){
         try {
